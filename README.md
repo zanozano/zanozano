@@ -38,9 +38,10 @@ I am a passionate professional with my work, cheerful and empathetic. Moreover, 
 </div>
 
 ```js
- {
-  code: [HTML, CSS, Javascript],
-  tools: [React, Node, Styled-Components]
+ let skills {
+  design: [Figma],
+  dev: [HTML, CSS, Javascript],
+  tools: [React, Bootstrap, Node, Styled-Components]
  }
 ```
 
