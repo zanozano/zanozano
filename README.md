@@ -13,6 +13,7 @@ I am a passionate professional with my work, cheerful and empathetic. Moreover, 
   tools: [React, Node, Styled-Components]
  }
 ```
+<img src="https://user-images.githubusercontent.com/25847850/159170495-09ee287b-6459-4764-bd5d-168267cdab3d.png" width="60" height="60">
 
 
 **zanozano/zanozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
