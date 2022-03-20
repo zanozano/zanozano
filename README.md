@@ -1,4 +1,9 @@
+
+
 ### Hi, I'm Cris 👋 👨‍💻
+<div align="center">
+<img src="https://user-images.githubusercontent.com/25847850/159170495-09ee287b-6459-4764-bd5d-168267cdab3d.png" alt='figma' width="60" height="60">
+</div>
 
 
 ## About me
@@ -44,3 +49,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/25847850/159170495-09ee287b-6459-4764-bd5d-168267cdab3d.png" alt='figma' width="60" height="60">
+</div>
