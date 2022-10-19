@@ -54,7 +54,9 @@ I am interested in the interaction between physical and digital products and how
 <hr>
 As a professional designer, I manage every project from a different and innovative point-of-views to improve the user experience design, getting a positive impact on their needs. I am specialized in agile methodologies and Mechanical 3D Models.
 
-react-expert-app.netlify.app
+### Some projects
+<hr>
+<a href="react-expert-app.netlify.app" padding="30px" target="blank" >React App</a>
 
 ### Get in touch
 <hr>
