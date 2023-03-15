@@ -52,7 +52,9 @@ I am interested in the interaction between physical and digital products and how
 
 ### How I work
 <hr>
-As a professional designer, I manage every project from a different and innovative point-of-views to improve the user experience design, getting a positive impact on their needs. I am specialized in agile methodologies and Mechanical 3D Models.
+I am an innovative designer with over five years in the industry. My passion lies in the mix of physical and digital products and their high impact on user needs. As a professional, I bring a unique perspective to each project, focusing on research and new design trends. I aim to create impactful solutions that meet user needs and drive results. I am highly skilled in agile methodologies, UX/UI design, front-end development through programming languages like JavaScript, and 3D mechanical modeling to enhance human-computer interaction (HCI).
+
+As a dedicated and empathetic professional designer, I bring positivity and enthusiasm to my work and possess strong leadership skills and the ability to work with cross-functional teams effectively. I am confident in my ability to make a meaningful contribution to any organization, leveraging my extensive experience and proven track record. I am eager to apply my expertise and passion to a dynamic and innovative company.
 
 ### Some projects
 <hr>
