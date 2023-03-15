@@ -58,7 +58,7 @@ As a dedicated and empathetic professional designer, I bring positivity and enth
 
 ### Some projects
 <hr>
-<a href="react-expert-app.netlify.app" padding="30px" target="blank" >React App</a>
+<a href="https://zano-react-todo.web.app/" padding="30px" target="blank" >React App</a>
 
 ### Get in touch
 <hr>
