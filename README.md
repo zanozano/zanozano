@@ -3,7 +3,7 @@
 
 ## Cristobal Manzano ― @zanozano 👋 👨‍💻
 <hr>
-Hi, I'm Cris―a UX/UI designer at Hackmonkeys.
+Hi, I'm Cris―a UX/UI designer at Morphosis.
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400">
 </div>
