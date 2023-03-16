@@ -44,9 +44,9 @@ I am interested in the interaction between physical and digital products and how
 ```
 
 
-- 🔭 I’m currently working at Hackmonkeys
-- 🌱 I’m currently learning more about React
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working at Morphosis and living in Thailand
+- 🌱 I’m currently learning more about React and Ruby on Rails
+- 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about my projects
 
 
