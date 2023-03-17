@@ -26,6 +26,8 @@ I am interested in the interaction between physical and digital products and how
  &nbsp
 <img src="https://user-images.githubusercontent.com/25847850/159171527-e3fe8a05-81dd-4b56-bd02-72877eac05fc.png" alt='css-3' width="60" height="60">
  &nbsp
+ <img src="https://user-images.githubusercontent.com/25847850/159171527-e3fe8a05-81dd-4b56-bd02-72877eac05fc.png" alt='css-3' width="60" height="60">
+ &nbsp
 <img src="https://user-images.githubusercontent.com/25847850/159171532-feb0dcbe-a9bd-4129-be73-1b07a74db3bf.png" alt='node-js' width="60" height="60">
  &nbsp
 <img src="https://user-images.githubusercontent.com/25847850/159171544-ad5fca13-d767-4d7f-9e24-6f746d4a0982.png" alt='bootstrap' width="60" height="60">
