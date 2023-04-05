@@ -67,6 +67,9 @@ As a dedicated and empathetic professional designer, I bring positivity and enth
  <li>
   <a href="https://zanozano.github.io/viajes-chile" padding="30px" target="blank" >Viajes Chile</a>
 </li>
+ <li>
+  <a href="https://portfolio2023-b9a66.web.app/" padding="30px" target="blank" >Portfolio 2023 WIP</a>
+</li>
 </ul>
 
 <hr>
