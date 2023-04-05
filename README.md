@@ -64,7 +64,6 @@ As a dedicated and empathetic professional designer, I bring positivity and enth
  <li>
 <a href="https://zano-react-todo.web.app/" padding="30px" target="blank" >React App</a>
 </li>
-  &nbsp
  <li>
   <a href="https://zanozano.github.io/viajes-chile" padding="30px" target="blank" >Viajes Chile</a>
 </li>
