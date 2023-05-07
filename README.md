@@ -70,6 +70,9 @@ As a dedicated and empathetic professional designer, I bring positivity and enth
  <li>
   <a href="https://portfolio2023-b9a66.web.app/" padding="30px" target="blank" >Portfolio 2023 WIP</a>
 </li>
+  <li>
+  <a href="https://calculator-5c753.web.app/" padding="30px" target="blank" >Simple Calculator</a>
+</li>
 </ul>
 
 <hr>
