@@ -73,6 +73,10 @@ As a dedicated and empathetic professional designer, I bring positivity and enth
   <li>
   <a href="https://calculator-5c753.web.app/" padding="30px" target="blank" >Simple Calculator</a>
 </li>
+ </li>
+  <li>
+  <a href="https://portfolio-web-8fa12.firebaseapp.com" padding="30px" target="blank" >Simple Portfolio React</a>
+</li>
 </ul>
 
 <hr>
