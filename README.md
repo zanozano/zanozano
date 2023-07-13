@@ -40,7 +40,7 @@ I am interested in the interaction between physical and digital products and how
 ```js
  let skills {
   design: [Figma],
-  dev: [HTML, CSS, Javascript],
+  dev: [HTML, CSS, Javascript, Ruby on Rails],
   tools: [React, Bootstrap, Node, Styled-Components]
  }
 ```
