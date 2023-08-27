@@ -71,20 +71,23 @@ With a strong passion for designing both physical and digital products, I thrive
 ## Some projects
 <ul>
  <li>
-<a href="https://zano-react-todo.web.app/" padding="30px" target="blank" >React App</a>
+<a href="https://pokeapi-9df8e.web.app/" padding="30px" target="blank" >PokeAPI</a>
 </li>
  <li>
-  <a href="https://zanozano.github.io/viajes-chile" padding="30px" target="blank" >Viajes Chile</a>
+  <a href="https://suricata-9cc9b.web.app/" padding="30px" target="blank" >Suricata</a>
 </li>
  <li>
-  <a href="https://portfolio2023-b9a66.web.app/" padding="30px" target="blank" >Portfolio 2023 WIP</a>
+  <a href="https://ricomida-10423.web.app/" padding="30px" target="blank" >Ricomida</a>
+</li>
+ <li>
+  <a href="https://iguana-fd59e.web.app/" padding="30px" target="blank" >Iguana</a>
 </li>
   <li>
   <a href="https://calculator-5c753.web.app/" padding="30px" target="blank" >Simple Calculator</a>
 </li>
  </li>
   <li>
-  <a href="https://portfolio-web-8fa12.firebaseapp.com" padding="30px" target="blank" >Simple Portfolio React</a>
+  <a href="https://zano-react-todo.web.app/" padding="30px" target="blank" >TodoApp</a>
 </li>
 </ul>
 
