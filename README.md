@@ -56,8 +56,8 @@ With a strong passion for designing both physical and digital products, I thrive
 </div>
  &nbsp
 
-      function cristobal() {
-         let skills {
+     function developer() {
+          let skills {
           design: [Figma, PSD, AI],
           dev: [HTML5, CSS3, Javascript, Node.Js, Ruby on Rails],
           db: [PostgreSQL, MongoDb],
