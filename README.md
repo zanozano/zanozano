@@ -28,7 +28,7 @@ With a strong passion for designing both physical and digital products, I thrive
 ***Let's connect!** I look forward to exploring opportunities where I can apply my diverse skill set and passion for design to create meaningful, user-centered solutions.*
 
 <div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400">
+<img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400" width="auto">
 </div>
 
 ## Empowering utilities and tools
