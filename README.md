@@ -1,10 +1,11 @@
 
+
 ![GitHub Oscuro](https://github.com/github-dark.png#gh-light-mode-only)
 
 
 # Cristobal Manzano ― @zanozano 👋 👨‍💻
 
-Hi, I'm **Cris**―a Senior UX/UI designer at [**@Morphosis**](https://morphos.is/)
+Hi, I'm **Cris** ― a Senior UX/UI designer at [**@Morphosis**](https://morphos.is/)
 
 - 🔭 I’m currently living in Bangkok, Thailand
 - 🌱 I’m currently learning about Python
@@ -53,14 +54,19 @@ With a strong passion for designing both physical and digital products, I thrive
 <img src="https://user-images.githubusercontent.com/25847850/159171545-944e4997-6553-42fe-8082-49ec41f0b94b.png" alt='react' width="60" height="60">
  &nbsp
 <img src="https://user-images.githubusercontent.com/25847850/159171549-cbf8e963-d501-4afd-85b7-8d2e50929a15.png" alt='postgre' width="60" height="60">
+ &nbsp
+<img src="https://user-images.githubusercontent.com/25847850/263519969-3b7fc5ef-952b-4139-9fe5-5c0b26b950de.png" alt='rubyonrails' height="60">
 </div>
+ &nbsp
 
-
+      function cristobal() {
          let skills {
-          design: [Figma],
-          dev: [HTML, CSS, Javascript, Ruby on Rails],
-          tools: [React, Bootstrap, Node, Styled-Components]
+          design: [Figma, PSD, AI],
+          dev: [HTML5, CSS3, Javascript, Node.Js, Ruby on Rails],
+          db: [PostgreSQL, MongoDb],
+          other: [React, MUI, Bootstrap, Styled-Components]
          }
+     }
 
 ## Some projects
 <ul>
@@ -85,13 +91,17 @@ With a strong passion for designing both physical and digital products, I thrive
 
 ## Get in touch
 
-<div align="center">
+<div display="flex" justify-content="space-around" >
 
-<a href="https://www.linkedin.com/in/zanozano/" padding="30px" target="blank" >
- <img align="center" src="https://user-images.githubusercontent.com/25847850/159171856-2be80079-29c0-4834-b53f-274fc062512b.png" alt='linkedin' width="60" height="60" />
- 
+<a href="https://www.linkedin.com/in/zanozano/" padding="64px" target="blank" >
+ <img align="center" src="https://user-images.githubusercontent.com/25847850/159171856-2be80079-29c0-4834-b53f-274fc062512b.png" alt='linkedin' height="60" />
 </a>
-<a href="https://www.instagram.com/zanozanozano/" padding="30px" target="blank" >
+ &nbsp
+<a href="https://www.instagram.com/zanozanozano/" padding="64px" target="blank" >
  <img align="center" src="https://user-images.githubusercontent.com/25847850/159171862-8dbdd259-c5bf-487d-96d6-5b55fc528b63.png" alt='instagram' width="60" height="60" />
- 
+</a>
+ &nbsp
+ <a href="https://www.medium.com/@zanozanozano" padding="64px" target="blank" >
+ <img align="center" src="https://user-images.githubusercontent.com/25847850/263520712-b7aa022b-4d21-45d4-968a-279f0ac78332.png" alt='medium' height="60" />
+ <a/>
  </div> 
