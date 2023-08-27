@@ -7,12 +7,12 @@
 
 Hi, I'm **Cris** ― a Senior UX/UI designer at [**@Morphosis**](https://morphos.is/)
 
-- 🔭 I’m currently living in Bangkok, Thailand
-- 🌱 I’m currently learning about Python
-- 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about my projects
+- 🏙️ Residing in vibrant Bangkok, Thailand.
+- 🐍 Exploring the world of Python programming.
+- 🤝 Open to exciting collaboration opportunities.
+- 🗨️ Let's discuss my latest projects!
 
-## How I work
+## My workflow in action:
 With a strong passion for designing both physical and digital products, I thrive on creating solutions that enhance user experiences and elevate their quality of life. As a seasoned professional, I bring over five years of expertise in product design, UX/UI, and front-end development, utilizing cutting-edge technologies to deliver remarkable results.
 
 🎨 **Designing for Impact:** I specialize in merging the worlds of physical and digital design to craft innovative solutions. My background in Product and Industrial Design ensures that every project I undertake is centered around user-centric research and design thinking. This approach allows me to identify user needs and create products that seamlessly integrate with their lives.
@@ -31,7 +31,7 @@ With a strong passion for designing both physical and digital products, I thrive
 <img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400">
 </div>
 
-## Tools
+## Empowering utilities and tools
 <div display="flex" justify-content="space-around" >
 <img src="https://user-images.githubusercontent.com/25847850/159170495-09ee287b-6459-4764-bd5d-168267cdab3d.png" alt='figma' width="60" height="60">
  &nbsp
@@ -68,7 +68,7 @@ With a strong passion for designing both physical and digital products, I thrive
          }
      }
 
-## Some projects
+## A glimpse into a few of my projects:
 <ul>
  <li>
 <a href="https://pokeapi-9df8e.web.app/" padding="30px" target="blank" >PokeAPI</a>
@@ -92,7 +92,7 @@ With a strong passion for designing both physical and digital products, I thrive
 </ul>
 
 
-## Get in touch
+## Let's connect:
 
 <div display="flex" justify-content="space-around" >
 
@@ -102,6 +102,10 @@ With a strong passion for designing both physical and digital products, I thrive
  &nbsp
 <a href="https://www.instagram.com/zanozanozano/" padding="64px" target="blank" >
  <img align="center" src="https://user-images.githubusercontent.com/25847850/159171862-8dbdd259-c5bf-487d-96d6-5b55fc528b63.png" alt='instagram' width="60" height="60" />
+</a>
+ &nbsp
+<a href="https://www.behance.net/zanozano" padding="64px" target="blank" >
+ <img align="center" src="https://user-images.githubusercontent.com/25847850/263522254-45b6005f-1179-470e-9b3b-8d6e7f587e89.png" alt='behance' width="60" height="60" />
 </a>
  &nbsp
  <a href="https://www.medium.com/@zanozanozano" padding="64px" target="blank" >
