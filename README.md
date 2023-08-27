@@ -1,30 +1,36 @@
+
 ![GitHub Oscuro](https://github.com/github-dark.png#gh-light-mode-only)
 
 
-## Cristobal Manzano ― @zanozano 👋 👨‍💻
-<hr>
-Hi, I'm Cris―a Senior UX/UI designer at Morphosis.
+# Cristobal Manzano ― @zanozano 👋 👨‍💻
+
+Hi, I'm **Cris**―a Senior UX/UI designer at [**@Morphosis**](https://morphos.is/)
+
+- 🔭 I’m currently living in Bangkok, Thailand
+- 🌱 I’m currently learning about Python
+- 👯 I’m looking to collaborate on new projects
+- 💬 Ask me about my projects
+
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400">
 </div>
 
-### How I work
-<hr>
+## How I work
 With a strong passion for designing both physical and digital products, I thrive on creating solutions that enhance user experiences and elevate their quality of life. As a seasoned professional, I bring over five years of expertise in product design, UX/UI, and front-end development, utilizing cutting-edge technologies to deliver remarkable results.
 
-🎨 Designing for Impact: I specialize in merging the worlds of physical and digital design to craft innovative solutions. My background in Product and Industrial Design ensures that every project I undertake is centered around user-centric research and design thinking. This approach allows me to identify user needs and create products that seamlessly integrate with their lives.
+🎨 **Designing for Impact:** I specialize in merging the worlds of physical and digital design to craft innovative solutions. My background in Product and Industrial Design ensures that every project I undertake is centered around user-centric research and design thinking. This approach allows me to identify user needs and create products that seamlessly integrate with their lives.
 
-💡 UX/UI Excellence and Seamless Integration: As a Senior UX/UI specialist, I bridge the gap between creativity and data-driven insights to craft interfaces that truly captivate and engage users. What sets me apart is my ability to seamlessly connect design concepts with robust programming skills. From wireframe to coding, my proficiency in JavaScript, Node.js, React, and Ruby on Rails empowers me to turn ideas into interactive experiences that users not only love but find intuitive and efficient.
+💡 **UX/UI Excellence and Seamless Integration:** As a Senior UX/UI specialist, I bridge the gap between creativity and data-driven insights to craft interfaces that truly captivate and engage users. What sets me apart is my ability to seamlessly connect design concepts with robust programming skills. From wireframe to coding, my proficiency in JavaScript, Node.js, React, and Ruby on Rails empowers me to turn ideas into interactive experiences that users not only love but find intuitive and efficient.
 
-🔧 Crafting the Future: Leveraging my expertise in 3D mechanical modeling, I enhance human-computer interaction, ensuring that products not only look appealing but also function seamlessly. My proficiency extends beyond visuals – I understand the intricate mechanics that make exceptional user experiences possible.
+🔧 **Crafting the Future:** Leveraging my expertise in 3D mechanical modeling, I enhance human-computer interaction, ensuring that products not only look appealing but also function seamlessly. My proficiency extends beyond visuals – I understand the intricate mechanics that make exceptional user experiences possible.
 
-🌟 Collaboration and Leadership: Recognized for my positive attitude and strong leadership, I excel in cross-functional collaborations. I have a proven track record of guiding teams toward success while fostering a creative and inclusive work environment.
+🌟 **Collaboration and Leadership:** Recognized for my positive attitude and strong leadership, I excel in cross-functional collaborations. I have a proven track record of guiding teams toward success while fostering a creative and inclusive work environment.
 
-🚀 Bringing Innovation to Your Team: I'm excited about the prospect of joining a dynamic company that values innovation and impactful design. With a rich history of translating ideas into reality, I am committed to contributing my skills to drive continuous growth and innovation.
+🚀 **Bringing Innovation to Your Team:** I'm excited about the prospect of joining a dynamic company that values innovation and impactful design. With a rich history of translating ideas into reality, I am committed to contributing my skills to drive continuous growth and innovation.
 
-Let's connect! I look forward to exploring opportunities where I can apply my diverse skill set and passion for design to create meaningful, user-centered solutions.
+***Let's connect!** I look forward to exploring opportunities where I can apply my diverse skill set and passion for design to create meaningful, user-centered solutions.*
 
-## Skills
+## Tools
 <div display="flex" justify-content="space-around" >
 <img src="https://user-images.githubusercontent.com/25847850/159170495-09ee287b-6459-4764-bd5d-168267cdab3d.png" alt='figma' width="60" height="60">
  &nbsp
@@ -48,26 +54,15 @@ Let's connect! I look forward to exploring opportunities where I can apply my di
  &nbsp
 <img src="https://user-images.githubusercontent.com/25847850/159171549-cbf8e963-d501-4afd-85b7-8d2e50929a15.png" alt='postgre' width="60" height="60">
 </div>
-<hr>
-```js
- let skills {
-  design: [Figma],
-  dev: [HTML, CSS, Javascript, Ruby on Rails],
-  tools: [React, Bootstrap, Node, Styled-Components]
- }
-```
 
 
-- 🔭 I’m currently working at Morphosis and living in Thailand
-- 🌱 I’m currently learning more about React and Ruby on Rails
-- 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about my projects
+         let skills {
+          design: [Figma],
+          dev: [HTML, CSS, Javascript, Ruby on Rails],
+          tools: [React, Bootstrap, Node, Styled-Components]
+         }
 
-
-
-
-### Some projects
-<hr>
+## Some projects
 <ul>
  <li>
 <a href="https://zano-react-todo.web.app/" padding="30px" target="blank" >React App</a>
@@ -87,9 +82,9 @@ Let's connect! I look forward to exploring opportunities where I can apply my di
 </li>
 </ul>
 
-<hr>
-### Get in touch
-<hr>
+
+## Get in touch
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zanozano/" padding="30px" target="blank" >
