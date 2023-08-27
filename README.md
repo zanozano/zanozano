@@ -12,10 +12,6 @@ Hi, I'm **Cris** ― a Senior UX/UI designer at [**@Morphosis**](https://morphos
 - 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about my projects
 
-<div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400">
-</div>
-
 ## How I work
 With a strong passion for designing both physical and digital products, I thrive on creating solutions that enhance user experiences and elevate their quality of life. As a seasoned professional, I bring over five years of expertise in product design, UX/UI, and front-end development, utilizing cutting-edge technologies to deliver remarkable results.
 
@@ -30,6 +26,10 @@ With a strong passion for designing both physical and digital products, I thrive
 🚀 **Bringing Innovation to Your Team:** I'm excited about the prospect of joining a dynamic company that values innovation and impactful design. With a rich history of translating ideas into reality, I am committed to contributing my skills to drive continuous growth and innovation.
 
 ***Let's connect!** I look forward to exploring opportunities where I can apply my diverse skill set and passion for design to create meaningful, user-centered solutions.*
+
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/25847850/159177640-a93afa09-ca45-46c5-8c04-5319d3fc5dc8.png" alt='designer' height="400">
+</div>
 
 ## Tools
 <div display="flex" justify-content="space-around" >
