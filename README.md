@@ -5,7 +5,7 @@
 
 # Cristobal Manzano ― @zanozano 👋 👨‍💻
 
-Hi, I'm **Cris** ― a Senior UX/UI designer at [**@Morphosis**](https://morphos.is/)
+Hi, I'm **Cris** ― a Senior UX/UI designer
 
 - 🏙️ Residing in vibrant Bangkok, Thailand.
 - 🐍 Exploring the world of Python programming.
