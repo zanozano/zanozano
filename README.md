@@ -5,7 +5,7 @@
 
 # Cristobal Manzano ― @zanozano 👋 👨‍💻
 
-Hi, I'm **Cris** ― a Senior UX/UI designer
+Hi, I'm **Cris** ― a Senior UX/UI designer, Product Designer and Full Stack Developer
 
 - 🏙️ Residing in vibrant Bangkok, Thailand.
 - 🐍 Exploring the world of Python programming.
