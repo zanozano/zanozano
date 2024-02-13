@@ -65,28 +65,10 @@ With a strong passion for designing both physical and digital products, I thrive
          }
      }
 
-## 💡 A glimpse into a few of my projects
-<ul>
- <li>
-<a href="https://pokeapi-9df8e.web.app/" padding="30px" target="blank" >PokeAPI</a>
-</li>
- <li>
-  <a href="https://suricata-9cc9b.web.app/" padding="30px" target="blank" >Suricata</a>
-</li>
- <li>
-  <a href="https://ricomida-10423.web.app/" padding="30px" target="blank" >Ricomida</a>
-</li>
- <li>
-  <a href="https://iguana-fd59e.web.app/" padding="30px" target="blank" >Iguana</a>
-</li>
-  <li>
-  <a href="https://calculator-5c753.web.app/" padding="30px" target="blank" >Simple Calculator</a>
-</li>
- </li>
-  <li>
-  <a href="https://zano-react-todo.web.app/" padding="30px" target="blank" >TodoApp</a>
-</li>
-</ul>
+## ✨ Explore my Amazing Projects ✨
+
+[Take a look at my portfolio](https://www.zanozano.com)
+
 
 
 ## 📌 Let's connect
