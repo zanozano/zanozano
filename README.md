@@ -5,6 +5,8 @@
 
 # Cristobal Manzano ― @zanozano 👋 👨‍💻
 
+<br clear="both">
+
 Hi, I'm **Cris** ― a Senior UX/UI designer, Product Designer and Full Stack Developer
 
 - 🏙️ Residing in vibrant Bangkok, Thailand.
@@ -12,7 +14,18 @@ Hi, I'm **Cris** ― a Senior UX/UI designer, Product Designer and Full Stack De
 - 🤝 Open to exciting collaboration opportunities.
 - 🗨️ Let's discuss my latest projects!
 
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanozano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
 ## 📖 My workflow in action
+
+<br clear="both">
+
 With a strong passion for designing both physical and digital products, I thrive on creating solutions that enhance user experiences and elevate their quality of life. As a seasoned professional, I bring over five years of expertise in product design, UX/UI, and front-end development, utilizing cutting-edge technologies to deliver remarkable results.
 
 🎨 **Designing for Impact:** I specialize in merging the worlds of physical and digital design to craft innovative solutions. My background in Product and Industrial Design ensures that every project I undertake is centered around user-centric research and design thinking. This approach allows me to identify user needs and create products that seamlessly integrate with their lives.
@@ -27,67 +40,94 @@ With a strong passion for designing both physical and digital products, I thrive
 
 ***Let's connect!** I look forward to exploring opportunities where I can apply my diverse skill set and passion for design to create meaningful, user-centered solutions.*
 
+<br clear="both">
 
 ## 🖌 Empowering utilities and tools
-<div display="flex" justify-content="space-around" >
-<img src="https://user-images.githubusercontent.com/25847850/159170495-09ee287b-6459-4764-bd5d-168267cdab3d.png" alt='figma' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171010-3245e1c9-039b-41bc-b10a-2295603dbdf8.png" alt='photoshop' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171024-e4796000-515a-41c9-a6a4-a579462ce7c5.png" alt='xd' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171036-19f41fd5-19a4-4e7d-bb4b-4ba274263858.png" alt='illustration' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171519-8aee7783-e22a-4736-b137-588bd594f04e.png" alt='htlm-5' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171527-e3fe8a05-81dd-4b56-bd02-72877eac05fc.png" alt='css-3' width="60" height="60">
- &nbsp
- <img src="https://user-images.githubusercontent.com/25847850/225861853-bf4233a4-21bd-41cb-99aa-5b5e49983785.png" alt='js' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171532-feb0dcbe-a9bd-4129-be73-1b07a74db3bf.png" alt='node-js' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171544-ad5fca13-d767-4d7f-9e24-6f746d4a0982.png" alt='bootstrap' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171545-944e4997-6553-42fe-8082-49ec41f0b94b.png" alt='react' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/159171549-cbf8e963-d501-4afd-85b7-8d2e50929a15.png" alt='postgre' width="60" height="60">
- &nbsp
-<img src="https://user-images.githubusercontent.com/25847850/263519969-3b7fc5ef-952b-4139-9fe5-5c0b26b950de.png" alt='rubyonrails' height="60">
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="52" alt="photoshop logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="52" alt="illustrator logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="52" alt="xd logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="52" alt="blender logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="52" alt="figma logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="52" alt="webflow logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" alt="html5 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="css3 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="52" alt="sass logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="52" alt="jquery logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript logo"  />
+  <img width="24" />
+ </div>
+ <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="react logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="52" alt="materialui logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="52" alt="ruby logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="52" alt="rails logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="java logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="52" alt="postgresql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="52" alt="mongodb logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="52" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs logo"  />
 </div>
- &nbsp
 
-     function developer() {
-          let skills {
-          design: [Figma, PSD, AI],
-          dev: [HTML5, CSS3, Javascript, Node.Js, Ruby on Rails],
-          db: [PostgreSQL, MongoDb],
-          other: [React, MUI, Bootstrap, Styled-Components]
-         }
-     }
+<br clear="both">
 
-## ✨ Explore my Amazing Projects ✨
+## ✨ Explore my Dev and Design Porfolio ✨
+
+<br clear="both">
 
 [Take a look at my portfolio](https://www.zanozano.com)
 
-
+<br clear="both">
 
 ## 📌 Let's connect
 
-<div display="flex" justify-content="space-around" >
+<br clear="both">
 
-<a href="https://www.linkedin.com/in/zanozano/" padding="64px" target="blank" >
- <img align="center" src="https://user-images.githubusercontent.com/25847850/159171856-2be80079-29c0-4834-b53f-274fc062512b.png" alt='linkedin' height="60" />
-</a>
- &nbsp
-<a href="https://www.instagram.com/zanozanozano/" padding="64px" target="blank" >
- <img align="center" src="https://user-images.githubusercontent.com/25847850/159171862-8dbdd259-c5bf-487d-96d6-5b55fc528b63.png" alt='instagram' width="60" height="60" />
-</a>
- &nbsp
-<a href="https://www.behance.net/zanozano" padding="64px" target="blank" >
- <img align="center" src="https://user-images.githubusercontent.com/25847850/263522254-45b6005f-1179-470e-9b3b-8d6e7f587e89.png" alt='behance' width="60" height="60" />
-</a>
- &nbsp
- <a href="https://www.medium.com/@zanozanozano" padding="64px" target="blank" >
- <img align="center" src="https://user-images.githubusercontent.com/25847850/263520712-b7aa022b-4d21-45d4-968a-279f0ac78332.png" alt='medium' height="60" />
- <a/>
- </div> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/zanozano/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/zanozano" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://dribbble.com/zanozanozano" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://medium.com/@zanozanozano" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://www.instagram.com/zanozanozano/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zanozano/count.svg?"  />
+</div>
