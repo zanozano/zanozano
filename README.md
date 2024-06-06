@@ -3,7 +3,7 @@
 ![GitHub Oscuro](https://github.com/github-dark.png#gh-light-mode-only)
 
 
-# Cristobal Manzano ― @zanozano 👋 👨‍💻
+# Cristobal Manzano ― @zanozano 👋 👨‍💻 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1M11TD)
 
 <br clear="both">
 
@@ -13,6 +13,7 @@ Hi, I'm **Cris** ― a Senior UX/UI designer, Product Designer and Full Stack De
 - 🐍 Learning Java programming.
 - 🤝 Open to exciting collaboration opportunities.
 - 🗨️ Let's discuss my latest projects!
+
 
 <br clear="both">
 
