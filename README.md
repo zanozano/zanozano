@@ -10,7 +10,7 @@
 Hi, I'm **Cris** ― a Senior UX/UI designer, Product Designer and Full Stack Developer
 
 - 🏙️ Residing in Udon Thani, Thailand.
-- 🐍 Learning Java programming.
+- 🐍 Learning Vue.js.
 - 🤝 Open to exciting collaboration opportunities.
 - 🗨️ Let's discuss my latest projects!
 
@@ -106,7 +106,7 @@ Let's connect! I look forward to exploring opportunities.
 
 <br clear="both">
 
-[Take a look at my portfolio](https://www.zanozano.com)
+[Take a look at my portfolio](https://www.zanozano.dev/)
 
 <br clear="both">
 
