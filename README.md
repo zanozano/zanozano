@@ -131,9 +131,3 @@ Let's connect! I look forward to exploring opportunities.
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zanozano/count.svg?"  />
-</div>
